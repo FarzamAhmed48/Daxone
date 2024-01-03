@@ -1,0 +1,13 @@
+.btn{
+    padding: 15px 30px;
+    border: 1px solid orangered;
+    color: orangered;
+    font-weight: bold;
+    background-color: rgb(217, 217, 252);
+
+}
+.btn:hover{
+    background-color: orangered;
+    color: white;
+    transition: 0.5s linear;
+}

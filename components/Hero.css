@@ -1,0 +1,30 @@
+.chimg{
+    width: 550px;
+    
+}
+.divm{
+    background-color: rgb(217, 217, 252);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+
+}
+.divm2{
+    width: 50vw;
+}
+.h11{
+    color: orangered;
+    font-size:4rem;
+}
+.h12{
+    color: black;
+    font-size:4rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.p11{
+    color: black;
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+}
